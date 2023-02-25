@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "craa-rg" {
-  name     = "Fri-test-rg"
+  name     = "Sat-rg"
   location = "East Us"
   tags = {
     environment = "dev"
